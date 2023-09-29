@@ -3,7 +3,7 @@ QuSTEAM is a nonprofit organization of campuses and companies working together t
 in education and research in QISE (quantum information science and engineering). 
 
 # QuSTEAM on GitHub
-All members of the QuSTEAM network can commit contributions to the Contributions repository. Such contributions will be moved to other repositories for dissemination after review and revision for subject matter across diverse disciplines, for pedagogy with required backward design (goals front and center with aligned assessable student engagement demonstrating desired skills and knowledge), and for copy edit and permissions. Dissemination of material meeting these criteria occurs through the program-level and course=level repositories, e.g. as the following:
+All members of the QuSTEAM network can commit contributions to the Contributions repository. Such contributions will be moved to other repositories for dissemination after review and revision for subject matter across diverse disciplines, for pedagogy with required backward design (goals front and center with aligned assessable student engagement demonstrating desired skills and knowledge), and for copy edit and permissions. Dissemination of material meeting these criteria occurs through the program-level and course-level repositories such as the following repositories:
 
  * Qu0-Instructor-Resources
  * Qu1-Quantum-Revolution
