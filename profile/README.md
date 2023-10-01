@@ -5,6 +5,9 @@ in education and research in QISE (quantum information science and engineering).
 # QuSTEAM on GitHub
 All members of the QuSTEAM network can commit contributions to the Contributions repository. Such contributions will be moved to other repositories for dissemination after review and revision for subject matter across diverse disciplines, for pedagogy with required backward design (goals front and center with aligned, assessable student engagement demonstrating desired skills and knowledge), and for copy edit and permissions. Dissemination of material meeting these criteria occurs through the program-level and course-level repositories such as the following repositories:
 
+ * [Contributions](https://github.com/QuSTEAM/Contributions) Materials can be submitted and reviewed through https://forms.gle/zDGvoQMD9r6BNPSs8
+ * [QuSTEAM](https://github.com/QuSTEAM/QuSTEAM) discussions about contributions
+ * [Canvas discussions among instructors and QuSTEAM community](
  * [Qu0-Instructor-Resources](https://github.com/QuSTEAM/Qu0-Instructor-Resources)
  * [Qu1-Quantum-Revolution](https://github.com/QuSTEAM/Qu1-Quantum-Revolution)
  * [Qu2-Classical-and-Quantum-Logic](https://github.com/QuSTEAM/Qu2-Classical-and-Quantum-Logic)
