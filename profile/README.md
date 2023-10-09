@@ -1,17 +1,38 @@
+
 # QuSTEAM
-QuSTEAM is a nonprofit organization of campuses and companies working together to accelerate across diverse campuses the expansion of undergraduate opportunities 
-in education and research in QISE (quantum information science and engineering). 
+## About Us
+QuSTEAM is a nonprofit network of colleges, universities, and employers that collaborate to scale quantum information science and engineering (**QISE**) to diverse institutions to achieve a diverse workforce. We offer tools for evidence-based STEM education. QuSTEAM aims to make it easier for 2- and 4-year institutions to develop undergraduate QISE (quantum information science and engineering) course sequences and research programs to build a quantum minor.
 
-# QuSTEAM on GitHub
-All members of the QuSTEAM network can commit contributions to the Contributions repository. Such contributions will be moved to other repositories for dissemination after review and revision for subject matter across diverse disciplines, for pedagogy with required backward design (goals front and center with aligned, assessable student engagement demonstrating desired skills and knowledge), and for copy edit and permissions. Dissemination of material meeting these criteria occurs through the program-level and course-level repositories such as the following repositories:
+## About QuSTEAM on GitHub
+QuSTEAM hosts repositories for teaching materials organized into eight courses and instructor resources. These materials are available through four platforms:
 
- * [Contributions](https://github.com/QuSTEAM/Contributions) Materials can be submitted and reviewed through https://forms.gle/zDGvoQMD9r6BNPSs8
- * [QuSTEAM](https://github.com/QuSTEAM/QuSTEAM) discussions about contributions
- * [Canvas discussions among instructors and QuSTEAM community](
- * [Qu0-Instructor-Resources](https://github.com/QuSTEAM/Qu0-Instructor-Resources)
- * [Qu1-Quantum-Revolution](https://github.com/QuSTEAM/Qu1-Quantum-Revolution)
- * [Qu2-Classical-and-Quantum-Logic](https://github.com/QuSTEAM/Qu2-Classical-and-Quantum-Logic)
- * [Qu3-Math-Methods-for-QISE](https://github.com/QuSTEAM/Qu3-Math-Methods-for-QISE)
- * [Qu4-Quantum-Lab](https://github.com/QuSTEAM/Qu4-Quantum-Lab)
- * [Qu7-Quantum-Software](https://github.com/QuSTEAM/Qu7-Quantum-Software)
- * [Qu8-Quantum-Hardware](https://github.com/QuSTEAM/Qu8-Quantum-Hardware)
+* qBraid - execute programs on quantum processors built on a variety of qubit types
+* Canvas - deliver material to students
+* Google Drive - access, contribute, revise, comment on course documents
+* GitHub - version control, backup, refresh
+
+Although each platform was included for the reasons stated, faculty can use each platform to access disseminated teaching materials.
+Faculty can also use each platform to contribute to the crowdsourcing effort aiming to improve, synthesize, disseminate, and facilitate evaluation of 
+methods and materials for building undergraduate capacity for undergraduate QISE instruction and research. Material is provided for use in in-person teaching at QuSTEAM member institutions after review and revision from subject matter expertise across diverse disciplines. The review process includes review ascertaining support for evidence-based pedagogy. Materials must state learning outcomes front and center, in front of students, aligned to an assessment that engages students to demonstrate desired skills and knowledge. 
+
+Sample syllabus and material will be available by course, hosted in this public repository:
+
+* Qu0-Instructor-Resources
+
+* Qu1-Quantum-Revolution
+
+* Qu2-Classical-and-Quantum-Logic
+
+* Qu3-Math-Methods-for-QISE
+
+* Qu4-Quantum-Lab
+
+* Qu5-Discipline-based-Quantum-Mechanics
+
+* Qu6-Quantum-Mechanics-for-QISE
+
+* Qu7-Quantum-Software
+
+* Qu8-Quantum-Hardware
+
+Connect with us on our [website](https://qusteam.org), [the community formerly known as Twitter](x.com), and [LinkedIn](https://linkedin.com/company/qusteam), or email contact@qusteam.org.
