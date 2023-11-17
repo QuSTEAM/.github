@@ -3,10 +3,9 @@
 QuSTEAM is a nonprofit network of colleges, universities, and employers that collaborate to scale quantum information science and engineering (**QISE**) to diverse institutions to achieve a diverse workforce. We offer tools for evidence-based STEM education. QuSTEAM aims to make it easier for 2- and 4-year institutions to develop  QISE courses toward an undergraduate quantum minor.
 
 ## About QuSTEAM on GitHub
-QuSTEAM hosts repositories for teaching materials organized into eight courses and program-level resources. If you an instructor at a QuSTEAM-affiliated insitution or company and would like to access course materials via GitHub/Canvas/qBraid/Google Drive, register at [QISE Instructors and SMEs registration](https://forms.gle/NexZRYMWkhJJcnh88). Sample syllabi and materials are available in a public repository as well.
+QuSTEAM hosts repositories for teaching materials organized into eight courses and program-level resources. If you an instructor at a QuSTEAM-affiliated insitution or company and would like to access course materials via GitHub/Canvas/qBraid/Google Drive, register at [QISE Instructors and SMEs registration](https://forms.gle/NexZRYMWkhJJcnh88). 
 
-Repositories:
-* QuSTEAM-Public
+# Repositories:
 
 * Qu0-Program-Resources
 
