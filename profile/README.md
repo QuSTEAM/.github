@@ -7,22 +7,22 @@ QuSTEAM hosts repositories for teaching materials organized into eight courses a
 
 # Repositories:
 
-* Qu0-Program-Resources
+* [Qu0-Program-Resources](https://github.com/QuSTEAM/Qu0-Program-Resources)
 
-* Qu1-Quantum-Revolution
+* [Qu1-Quantum-Revolution](https://github.com/QuSTEAM/Qu1-Quantum-Revolution)
 
-* Qu2-Classical-and-Quantum-Logic
+* [Qu2-Classical-and-Quantum-Logic](https://github.com/QuSTEAM/Qu2-Classical-and-Quantum-Logic)
 
-* Qu3-Math-Methods-for-QISE
+* [Qu3-Math-Methods-for-QISE](https://github.com/QuSTEAM/Qu3-Math-Methods-for-QISE)
 
-* Qu4-Quantum-Lab
+* [Qu4-Quantum-Lab](https://github.com/QuSTEAM/Qu4-Quantum-Lab)
 
-* Qu5-Discipline-based-Quantum-Mechanics
+* [Qu5-Discipline-based-Quantum-Mechanics](https://github.com/QuSTEAM/Qu5-Discipline-based-Quantum-Mechanics)
 
-* Qu6-Quantum-Mechanics-for-QISE
+* [Qu6-Quantum-Mechanics-for-QISE](https://github.com/QuSTEAM/Qu6-Quantum-Mechanics-for-QISE)
 
-* Qu7-Quantum-Software
+* [Qu7-Quantum-Software](https://github.com/QuSTEAM/Qu7-Quantum-Software)
 
-* Qu8-Quantum-Hardware
+* [Qu8-Quantum-Hardware](https://github.com/QuSTEAM/Qu8-Quantum-Hardware)
 
 Connect with us via our [website](https://qusteam.org), [X](x.com/qusteam), and [LinkedIn](https://linkedin.com/company/qusteam), or email contact@qusteam.org.
