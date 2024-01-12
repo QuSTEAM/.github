@@ -7,6 +7,8 @@ QuSTEAM hosts repositories for teaching materials organized into eight courses a
 
 # Repositories:
 
+* [Contributions](https://github.com/QuSTEAM/Contributions) contains materials in the review process. After review, materials can be found in the following repos:
+
 * [Qu0-Program-Resources](https://github.com/QuSTEAM/Qu0-Program-Resources)
 
 * [Qu1-Quantum-Revolution](https://github.com/QuSTEAM/Qu1-Quantum-Revolution)
